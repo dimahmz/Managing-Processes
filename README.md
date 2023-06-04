@@ -1,10 +1,1 @@
-## Managing Processes in C
-# Execrice 1 : 
-  Ecrire un programme qui crée 2 processus l’un faisant la commande ls –l , l’autre ps –l.  
-  Le père devra attendre la fin de ses deux fils et afficher quel a été le premier processus à terminer.  
- **Reponse** :  
-  la reponse est implimenté dans le fichier MultiProcessMonitor.c  
-  pour l'executer sous linux :  
-  (gcc doit être installer déja.)  
-  ``gcc   MultiProcessMonitor.c  
-  ./a.out``
+![Screenshot from 2023-06-04 21-53-57](https://github.com/dimahmz/Managing-Processes/assets/107852931/5bf57c4f-e735-4b61-a014-09b9fd25c37f)
